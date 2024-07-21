@@ -1,0 +1,67 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.podspec
+Podfile.lock
+Podfile.slock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Coverage
+*.xcresult
+*.profdata
+coverage.txt
+*.gcno
+*.gcda
+*.gcov
+
+# Archives
+*.xcarchive
+
+# Device Data
+*.device/
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*~
+
+# Xcode 13 or older warnings
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# AppCode
+.idea/
+
+# MacOS
+.DS_Store
+
+
